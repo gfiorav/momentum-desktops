@@ -1,0 +1,6 @@
+{
+  "name": "Momentum Desktops",
+  "description": "This extension will make your wallpaper into whatever Momentum's picture of the day is. All credit goes to them.",
+  "uuid": "momentum-desktops@gfiorav",
+  "shell-version": ["3.26.2"]
+}
